@@ -114,6 +114,7 @@ html {
   background-color: #5172d8;
   padding: 0.3rem 0.8rem;
   border-radius: 2rem;
+  color: #fff;
 }
 
 .home > h1 {
@@ -142,6 +143,7 @@ html {
 .hireMe:hover {
   transform: translateY(-0.2rem);
   transition: all 1s ease;
+  cursor: pointer;
 }
 
 .downloadCV {
@@ -157,6 +159,7 @@ html {
   color: rgb(236, 231, 231);
   transition: all 1s ease;
   transform: translateY(-0.2rem);
+  cursor: pointer;
 }
 
 /* FOOTER */
@@ -192,7 +195,7 @@ html {
   border-top: 4rem solid #5172d8;
   border-radius: 1.5rem;
   padding: 1rem;
-  width: 80vw;
+  width: 60vw;
 }
 
 .about-me-main {
@@ -220,7 +223,7 @@ html {
 .contact {
   display: flex;
   flex-direction: column;
-  width: 65vw;
+  width: 60vw;
 }
 
 .contact input,
@@ -269,6 +272,16 @@ textarea {
 
 .telegram {
   font-size: 1.2em;
+}
+
+@media screen and (max-width: 900px) {
+  .contact {
+    width: 90vw;
+  }
+
+  .about-me {
+    width: 90vw;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -338,10 +351,10 @@ textarea {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 450px) {
   .hot {
     padding: 1.1rem;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .bsdownload {
@@ -373,6 +386,6 @@ textarea {
     color: #5172d8;
   }
   .home {
-  padding-bottom: 4rem;
-}
+    padding-bottom: 4rem;
+  }
 }

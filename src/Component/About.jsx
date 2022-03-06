@@ -34,7 +34,7 @@ const About = () => {
               <span> &gt;</span> Soft-Skills:
             </p>
             <p>
-              &nbsp; &nbsp; &nbsp;"Team building, Effective Networking, Presentaion strageties"
+              &nbsp; &nbsp; &nbsp;"Team building, Effective Networking, Presentation strategies"
             </p>
             <p>
               <span> &gt;</span> Interest:
