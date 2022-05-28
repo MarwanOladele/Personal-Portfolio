@@ -466,4 +466,8 @@ textarea {
   .home {
     padding-bottom: 4rem;
   }
+.explanation {
+  text-align: center;
+}
+
 }
