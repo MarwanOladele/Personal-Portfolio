@@ -23,7 +23,7 @@ const Project = () => {
             <span>es6</span>
           </div>
           <a href="https://marwantourproject.netlify.app" target="blank">
-            See Project
+            See Project 
           </a>
         </div>
         <div className="project">
