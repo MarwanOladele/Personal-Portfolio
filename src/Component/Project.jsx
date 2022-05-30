@@ -17,7 +17,7 @@ const Project = () => {
           />
           <h1>Tour App</h1>
           <p>frontend, 2022</p>
-          <p className="explanation">An app used to pick desired places for tourism</p>
+          <p className="explanation">An app use in picking desired places for tourism</p>
           <div className="stack">
             <span>React</span>
             <span>es6</span>
