@@ -26,6 +26,7 @@ const Project = ({
           <span>{tool1}</span>
           <span>{tool2}</span>
           <span>{tool3}</span>
+          
         </div>
         <a href={link} target="blank">
           See Project
