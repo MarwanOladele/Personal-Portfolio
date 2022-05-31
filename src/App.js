@@ -1,7 +1,7 @@
 import "./App.css";
 import Home from "./Component/Home";
 import Navbar from "./Component/Navbar";
-import Project from "./Component/Project";
+import Projects from "./Component/Projects";
 import Contact from "./Component/Contact";
 import About from "./Component/About";
 import Footer from "./Component/Footer";
@@ -17,7 +17,7 @@ function App() {
           <Home />
         </Route>
         <Route path="/project">
-          <Project />
+          <Projects />
         </Route>
         <Route path="/about">
           <About />
