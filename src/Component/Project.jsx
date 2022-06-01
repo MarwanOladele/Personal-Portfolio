@@ -1,8 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import asset1 from "../Assets/asset1.png";
-import asset2 from "../Assets/asset2.png";
-import asset3 from "../Assets/asset3.png";
 
 const Project = ({
   img,

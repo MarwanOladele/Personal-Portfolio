@@ -1,21 +1,22 @@
-// import asset1 from "../Assets/asset1.png";
-// import asset2 from "../Assets/asset2.png";
-// import asset3 from "../Assets/asset3.png";
+import asset1 from "./asset3.png";
+import asset2 from "./asset1.png";
+import asset3 from "./asset2.png";
 
 const data1 = [
   {
     id: 1,
-    // img: asset1,
+    img: asset1,
     title: "Tour app",
     stack: "frontend 2022",
-    explanation: "A tour app used for pick a desired place for tourism",
+    explanation: "An app use in picking desired places for tourism",
     tool1: "react",
     tool2: "es6",
+    tool3: "css",
     link: "https://ooladelemarwan.netlify.app",
   },
   {
     id: 2,
-    // img: asset2,
+    img: asset2,
     title: "Portfolio",
     stack: "frontend 2022",
     explanation: "A personalized Portfolio design",
@@ -26,7 +27,7 @@ const data1 = [
   },
   {
     id: 3,
-    // img: asset3,
+    img: asset3,
     title: "Meditech",
     stack: "frontend 2022",
     explanation: "A Hospital Management Application",
