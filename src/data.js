@@ -11,14 +11,14 @@ const data1 = [
     explanation: "A tour app used for pick a desired place for tourism",
     tool1: "react",
     tool2: "es6",
-    link: "https://marwantourproject.netlify.app",
+    link: "https://ooladelemarwan.netlify.app",
   },
   {
     id: 2,
     // img: asset2,
     title: "Portfolio",
     stack: "frontend 2022",
-    explanation: "A tour app used for pick a desired place for tourism",
+    explanation: "A personalized Portfolio design",
     tool1: "react",
     tool2: "es6",
     tool3: "styled-component",
@@ -27,13 +27,13 @@ const data1 = [
   {
     id: 3,
     // img: asset3,
-    title: "Tour app",
+    title: "Meditech",
     stack: "frontend 2022",
-    explanation: "A tour app used for pick a desired place for tourism",
+    explanation: "A Hospital Management Application",
     tool1: "react",
     tool2: "es6",
     tool3: "styled-component",
-    link: "https://marwantourproject.netlify.app",
+    link: "https://meditech-react.netlify.app/",
   },
 ];
 
