@@ -1,6 +1,7 @@
 import asset1 from "./asset3.png";
 import asset2 from "./asset1.png";
 import asset3 from "./asset2.png";
+import asset4 from "./asset4.png";
 
 const data1 = [
   {
