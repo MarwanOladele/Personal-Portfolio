@@ -6,6 +6,17 @@ import asset4 from "./asset4.png";
 const data1 = [
   {
     id: 1,
+    img: asset4,
+    title: "Ecom App",
+    stack: "frontend 2022",
+    explanation: "An e-commerce application",
+    tool1: "next",
+    tool2: "es6",
+    tool3: "sanity",
+    link: "https://e-com-app.vercel.app/",
+  },
+  {
+    id: 2,
     img: asset1,
     title: "Tour app",
     stack: "frontend 2022",
@@ -27,10 +38,10 @@ const data1 = [
     link: "https://marwantourproject.netlify.app",
   },
   {
-    id: 3,
+    id: 4,
     img: asset3,
     title: "Meditech",
-    stack: "frontend 2022",
+    stack: "frontend 2021",
     explanation: "A Hospital Management Application",
     tool1: "react",
     tool2: "es6",
