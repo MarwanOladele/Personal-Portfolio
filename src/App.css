@@ -110,11 +110,24 @@ html {
   top: 0.25rem;
 }
 
+@keyframes example {
+  from {
+    background-color: red;
+  }
+
+  to {
+    background-color: #5172d8;;
+  }
+}
+
 .hot > span {
-  background-color: #5172d8;
+  background-color: red; 
   padding: 0.3rem 0.8rem;
+  animation-name: example;
+  animation-duration: 0.7s;
   border-radius: 2rem;
   color: #fff;
+  animation-iteration-count: infinite;
 }
 
 .home > h1 {
