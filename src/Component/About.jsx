@@ -27,8 +27,8 @@ const About = () => {
               <span> &gt;</span> Languages/Tools:
             </p>
             <p>
-              &nbsp; &nbsp; &nbsp;"React, JavaScript, HTML5, CSS, Git,
-              Bootstrap, Figma, SASS/SCSS"
+              &nbsp; &nbsp; &nbsp;"ReactJS, NextJS, JavaScript, HTML5, CSS, Git,
+              Bootstrap, Figma, SASS/SCSS, Netlify"
             </p>
             <p>
               <span> &gt;</span> Soft-Skills:
