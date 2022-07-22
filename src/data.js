@@ -24,7 +24,7 @@ const data1 = [
     tool1: "react",
     tool2: "es6",
     tool3: "css",
-    link: "https://ooladelemarwan.netlify.app",
+    link: "https://marwantourproject.netlify.app",
   },
   {
     id: 2,
@@ -35,7 +35,7 @@ const data1 = [
     tool1: "react",
     tool2: "es6",
     tool3: "styled-component",
-    link: "https://marwantourproject.netlify.app",
+    link: "https://ooladelemarwan.netlify.app",
   },
   {
     id: 4,
