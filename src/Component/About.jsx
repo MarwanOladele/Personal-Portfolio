@@ -28,7 +28,7 @@ const About = () => {
             </p>
             <p>
               &nbsp; &nbsp; &nbsp;"ReactJS, NextJS, JavaScript, HTML5, CSS, Git,
-              Bootstrap, Figma, SASS/SCSS, Netlify"
+              Bootstrap, Figma, SASS/SCSS, Netlify, Github, Bitbucket"
             </p>
             <p>
               <span> &gt;</span> Soft-Skills:
