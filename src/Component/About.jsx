@@ -14,11 +14,11 @@ const About = () => {
             <p>
               <span> &gt;</span> Current Job:
             </p>
-            <p>&nbsp; &nbsp; &nbsp;"Frontend Developer"</p>
+            <p>&nbsp; &nbsp; &nbsp;"Frontend Developer Intern"</p>
             <p>
               <span> &gt;</span> Open for:
             </p>
-            <p>&nbsp; &nbsp; &nbsp;"Internships"</p>
+            <p>&nbsp; &nbsp; &nbsp;"Job Opportunities"</p>
             <p>
               <span> &gt;</span> Education:
             </p>

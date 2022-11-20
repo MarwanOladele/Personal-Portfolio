@@ -1,11 +1,23 @@
 import asset1 from "./asset3.png";
-import asset2 from "./asset1.png";
+import asset5 from "./asset5.png";
 import asset3 from "./asset2.png";
 import asset4 from "./asset4.png";
+import asset6 from "./asset6.png";
 
 const data1 = [
   {
     id: 1,
+    img: asset6,
+    title: "WeatherApp",
+    stack: "frontend 2022",
+    explanation: "A web application for checking weather forecast",
+    tool1: "react",
+    tool2: "es6",
+    tool3: "css",
+    link: "https://marwanweatherapp.netlify.app/",
+  },
+  {
+    id: 2,
     img: asset4,
     title: "Ecom App",
     stack: "frontend 2022",
@@ -16,7 +28,7 @@ const data1 = [
     link: "https://e-com-app.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     img: asset1,
     title: "Tour app",
     stack: "frontend 2022",
@@ -27,18 +39,18 @@ const data1 = [
     link: "https://marwantourproject.netlify.app",
   },
   {
-    id: 2,
-    img: asset2,
-    title: "Portfolio",
+    id: 4,
+    img: asset5,
+    title: "Quote Generator",
     stack: "frontend 2022",
-    explanation: "A personalized Portfolio design",
+    explanation: "A web application use for generating random quotes",
     tool1: "react",
     tool2: "es6",
     tool3: "styled-component",
-    link: "https://ooladelemarwan.netlify.app",
+    link: "https://marwanquotegenerator.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     img: asset3,
     title: "Meditech",
     stack: "frontend 2021",
