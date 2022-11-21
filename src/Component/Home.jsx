@@ -22,7 +22,7 @@ const Home = () => {
             <Link to="/contact">
               <button className="hireMe">Hire me</button>
             </Link>
-            <a href="https://drive.google.com/file/d/1ePDl8YRx_TORwuepXHjEPParyo5zMGSr/view?usp=drivesdk" target='_blank'>
+            <a href="https://drive.google.com/file/d/1cIHbCDpHSF8kdigdIsbLdVAtU4FCLnj0/view?usp=drivesdk" target='_blank'>
               <button className="downloadCV">
                 Download CV <BsDownload className="bsdownload" />
               </button>
