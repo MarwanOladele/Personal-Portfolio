@@ -3,10 +3,22 @@ import asset5 from "./asset5.png";
 import asset3 from "./asset2.png";
 import asset4 from "./asset4.png";
 import asset6 from "./asset6.png";
+import asset7 from "./asset7.png";
 
 const data1 = [
   {
     id: 1,
+    img: asset7,
+    title: "Restaurant App",
+    stack: "frontend 2023",
+    explanation: "A web application mainly for a Restaurant",
+    tool1: "react",
+    tool2: "es6",
+    tool3: "css",
+    link: "https://marwan-restaurantapp.netlify.app/",
+  },
+  {
+    id: 2,
     img: asset6,
     title: "WeatherApp",
     stack: "frontend 2022",
@@ -17,7 +29,7 @@ const data1 = [
     link: "https://marwanweatherapp.netlify.app/",
   },
   {
-    id: 2,
+    id: 3,
     img: asset4,
     title: "Ecom App",
     stack: "frontend 2022",
@@ -28,9 +40,9 @@ const data1 = [
     link: "https://e-com-app.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     img: asset1,
-    title: "Tour app",
+    title: "Tour App",
     stack: "frontend 2022",
     explanation: "An app use in picking desired places for tourism",
     tool1: "react",
@@ -39,7 +51,7 @@ const data1 = [
     link: "https://marwantourproject.netlify.app",
   },
   {
-    id: 4,
+    id: 5,
     img: asset5,
     title: "Quote Generator",
     stack: "frontend 2022",
@@ -50,7 +62,7 @@ const data1 = [
     link: "https://marwanquotegenerator.netlify.app/",
   },
   {
-    id: 5,
+    id: 6,
     img: asset3,
     title: "Meditech",
     stack: "frontend 2021",
