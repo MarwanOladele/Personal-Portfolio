@@ -1,0 +1,44 @@
+.popup {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(62, 55, 55, 0.4);
+}
+
+.popupcard {
+  min-width: 300px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8da7f5;
+  border-radius: 15px;
+  flex-direction: column;
+  position: relative;
+}
+
+.popupicon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 32px !important;
+  cursor: pointer;
+}
+
+.popupicon1 {
+  font-size: 100px !important;
+}
+
+.popuptext {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.thanks {
+    font-size: 30px;
+}
